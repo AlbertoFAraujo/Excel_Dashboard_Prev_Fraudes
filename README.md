@@ -30,7 +30,7 @@ O tempo estimado para a execução de todas as etapas é de 1 dia.
 
 ### Projeto Final a ser desenvolvido:
 
-![dashOp](https://github.com/AlbertoFAraujo/DashOperacoes/assets/105552990/d76a97e1-9d09-4d2f-b236-89f8d3155b76)
+![DashOp_print](https://github.com/AlbertoFAraujo/DashOperacoes/assets/105552990/bc852084-dfcc-4d75-be13-5eb007a94861)
 <hr>
 
 ### Execução das Etapas:
@@ -93,4 +93,4 @@ Foi realizado diversos testes para garantir que todos os gráficos estivessem se
 
 ### Resultado final
 
-https://github.com/AlbertoFAraujo/DashOperacoes/assets/105552990/a438408e-15da-4a68-b46d-145be558ca04
+https://github.com/AlbertoFAraujo/DashOperacoes/assets/105552990/afc778d9-27bb-46b4-8b1c-4b2076e24788
