@@ -93,4 +93,5 @@ Foi realizado diversos testes para garantir que todos os gráficos estivessem se
 
 ### Resultado final
 
-https://github.com/AlbertoFAraujo/DashOperacoes/assets/105552990/afc778d9-27bb-46b4-8b1c-4b2076e24788
+![DashOp_video](https://github.com/AlbertoFAraujo/DashOperacoes/assets/105552990/ca6457d7-345e-44c1-835a-fa653a95d877)
+
